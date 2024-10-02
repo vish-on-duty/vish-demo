@@ -1,2 +1,3 @@
 # vish-demo
 this is my first git repository
+At this point i have no idea for whom is this readme file for...
